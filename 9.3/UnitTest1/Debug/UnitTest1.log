@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\Dell\source\repos\9.3\Source.cpp(28,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\Dell\source\repos\9.3\UnitTest1\UnitTest1.cpp(16,1): error C2664: 'void Create(Price *,const int)': cannot convert argument 1 from 'int [3]' to 'Price *'
+C:\Users\Dell\source\repos\9.3\UnitTest1\UnitTest1.cpp(16,15): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Dell\source\repos\9.3\Source.cpp(59,6): message : see declaration of 'Create'
